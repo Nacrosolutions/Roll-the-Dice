@@ -1,0 +1,10 @@
+What is a javascript ?
+
+High level , object -orient programming language ,multi paradigm  language
+
+High-level - we dont have to think about managing some stuff  like managing the resource etc .
+Object-oriented : Based on Objects 
+Mult-paridagm : very verstile (imperative or declartive)
+
+What role does it plays in Web deployment ?
+
